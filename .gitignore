@@ -1,5 +1,4 @@
 .env
 __pycache__/
 .venv/
-snapshots/
 prompts_log.md
